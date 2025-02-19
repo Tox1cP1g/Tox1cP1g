@@ -10,8 +10,8 @@ I'm a passionate developer working on various projects, including:
 
 💼 **Work / Работа**
 ---
-- **Software Developer // Разработчик программного обеспечения** at LLC "DiagXpert", Russia // ООО "ДиагЭксперт", Россия
-- **IT Technician // Техник** at JSC "NIIME", Russia // АО "НИИМЭ", Россия
+- **Software Developer / Разработчик программного обеспечения** at LLC "DiagXpert", Russia / ООО "ДиагЭксперт", Россия
+- **IT Technician / Техник** at JSC "NIIME", Russia / АО "НИИМЭ", Россия
 
 📚 **Currently Learning / Изучаю**
 ---
