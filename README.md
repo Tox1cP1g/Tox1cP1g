@@ -24,7 +24,7 @@ I'm always open to collaborating on innovative projects, especially in AI, robot
 ---
 - **Email:** [vak2004@list.ru](mailto:vak2004@list.ru)
 - **GitHub:** [Tox1cP1g](https://github.com/Tox1cP1g)
-- **Telegram:** [My Telegram](https://t.me/vkltd)
+- **Telegram:** [@vkltd](https://t.me/vkltd)
 
 ⚡ **Fun Fact / Интересный факт**
 ---
