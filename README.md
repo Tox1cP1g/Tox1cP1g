@@ -20,7 +20,8 @@ I'm a passionate developer working on various projects, including:
 
 💡 **Let's Collaborate! / Давайте сотрудничать!**
 ---
-I'm always open to collaborating on innovative projects, especially in AI, robotics, and high-performance computing.
+I'm always open to collaborating on innovative projects, especially in AI, robotics, and high-performance computing. 
+
 Я всегда открыт для совместной работы над инновационными проектами, особенно в области ИИ, робототехники и высокопроизводительных вычислений.
 
 📫 **How to Reach Me / Контакты**
@@ -32,4 +33,5 @@ I'm always open to collaborating on innovative projects, especially in AI, robot
 ⚡ **Fun Fact / Интересный факт**
 ---
 I love optimizing algorithms and squeezing out every bit of performance from my code! 🔥
+
 Обожаю оптимизировать алгоритмы и выжимать максимум производительности из кода! 🔥
