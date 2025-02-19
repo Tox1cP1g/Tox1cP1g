@@ -29,4 +29,5 @@ I'm always open to collaborating on innovative projects, especially in AI, robot
 ⚡ **Fun Fact / Интересный факт**
 ---
 I love optimizing algorithms and squeezing out every bit of performance from my code! 🔥
+
 Обожаю оптимизировать алгоритмы и выжимать максимум производительности из кода! 🔥
